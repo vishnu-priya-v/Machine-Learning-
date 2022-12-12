@@ -1,3 +1,4 @@
 # Machine-Learning-
 
-This is my first Data Science project. I have done 3 different projects based on supervised and unsupervised machine learning algorithms. I have done one of each classfication, regression and clustering. Algorithms like Linear Regression, Logistic Regression, KNN, Decision Tree, Random Forest, K Means and Hierarchical clustering are used.
+A machine learning project based on K-Means clustering. This data contains details of customers who shop in a supermarket and to ﬁnd their spending score based on attributes like Customer ID, age, gender, and annual income.
+Various visualization such as bar graph, boxplot and histogram, scatterplots were used.
